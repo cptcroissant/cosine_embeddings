@@ -1,2 +1,6 @@
-# cosine_embeddings
+# Chats explorations baseline  
+
+Поиск схожих сообщений в чатах с помощью bert эмбеддингов и косинусных расстояний. 
+
+
  
